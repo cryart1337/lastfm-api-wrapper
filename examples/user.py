@@ -1,4 +1,4 @@
-from lastfmapi.user import UserAPI
+from lafmapi.user import UserAPI
 
 api_key = "your_api_key"
 user_api = UserAPI(api_key)

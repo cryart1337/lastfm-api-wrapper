@@ -2,7 +2,7 @@ from .api import LastfmAPI
 from .errors import LastfmError
 
 
-class LastfmUser:
+class UserAPI:
     def __init__(self, api_key):
         self.api = LastfmAPI(api_key)
 

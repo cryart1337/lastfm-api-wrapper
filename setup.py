@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="lastfm-api-wrapper",
+    name="lafmapi",
     version="0.1.0",
     description="Python wrapper for the Last.fm API",
     url="https://github.com/Gaming552/lastfm-api-wrapper",

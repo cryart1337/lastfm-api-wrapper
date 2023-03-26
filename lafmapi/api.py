@@ -1,5 +1,5 @@
 import requests
-from .errors import LastfmAPIError
+from .errors import LastfmError
 
 class LastfmAPI:
     API_BASE_URL = "http://ws.audioscrobbler.com/2.0/"

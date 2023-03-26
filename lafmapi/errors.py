@@ -1,4 +1,4 @@
-class LastfmAPIError(Exception):
+class LastfmError(Exception):
     """Base class for exceptions in the Last.fm API wrapper."""
     pass
 

@@ -6,7 +6,7 @@ setup(
     description="Python wrapper for the Last.fm API",
     url="https://github.com/Gaming552/lastfm-api-wrapper",
     author="cryart",
-    author_email="none",
+    author_email="dunariibot@gmail.com",
     license="MIT",
     classifiers=[
         "Development Status :: 3 - Alpha",
